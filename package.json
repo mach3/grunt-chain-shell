@@ -1,0 +1,13 @@
+{
+  "name": "grunt-chain-shell",
+  "version": "0.8.0",
+  "description": "Grunt task to run shell script chainly",
+  "main": "./tasks/grunt-chain-shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "http://github.com/mach3/grunt-chain-shell",
+  "author": "mach3",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
